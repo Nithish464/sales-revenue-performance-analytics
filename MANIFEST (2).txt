@@ -1,0 +1,12 @@
+01_executive_kpis.sql	262 bytes
+02_monthly_revenue_profit.sql	143 bytes
+03_category_performance.sql	245 bytes
+04_city_performance.sql	170 bytes
+05_channel_performance.sql	190 bytes
+06_segment_value.sql	238 bytes
+07_top_products.sql	209 bytes
+08_discount_profit.sql	310 bytes
+09_quarterly_trend.sql	184 bytes
+10_payment_method.sql	177 bytes
+README.md	271 bytes
+schema.sql	782 bytes
